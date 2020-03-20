@@ -24,3 +24,6 @@ Project Name: Peru's Statistics - Coronavirus CoViD-19
 		
     Known bugs.
 		None
+		
+Acknowledgements :  https://github.com/CSSEGISandData/COVID-19
+
